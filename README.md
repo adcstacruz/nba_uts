@@ -3,9 +3,11 @@
 ## Installation 
 
 Create an environment
+
 ```python -m venv .venv```
 
 Install requirements (EDA for now)
+
 ```pip install -r requirements-eda.txt```
 
 ## Notes: 
