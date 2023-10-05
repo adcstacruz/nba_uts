@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/totoy/Desktop/uts/nba_uts/notebooks/mlruns/0/d644301c168b499bbea88892e0e6fc88/artifacts
+end_time: 1696320048184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d644301c168b499bbea88892e0e6fc88
+run_name: receptive-shark-329
+run_uuid: d644301c168b499bbea88892e0e6fc88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320047037
+status: 3
+tags: []
+user_id: totoy
