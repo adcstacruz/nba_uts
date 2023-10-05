@@ -2,16 +2,16 @@
 
 ## Installation 
 
-Create an environment
+Create a conda environment. Note: the environment.yml was created using MAC (some might not be applicable to other OS)
 
-```python -m venv .venv```
+```conda env create -f environment.yml```
 
-Install requirements (EDA for now)
+Activate conda environment
 
-```pip install -r requirements-eda.txt```
+```conda activate uts```
 
-## Notes: 
-Insights are in the EDA document, Section 3
-
-## Progress:
-- [x] EDA
+## Codes and Results:
+- [x] [EDA](notebooks/stacruz_anton_X_week2_EDA.ipynb)
+- [x] [Benchmark Modeling](notebooks/stacruz_anton_X_week3_Model_Crude.ipynb)
+- [x] [Modeling](notebooks/stacruz_anton_X_week4_modeling.ipynb)
+- [x] [Output CSV](notebooks/StaCruz_NBA_submission.csv)
